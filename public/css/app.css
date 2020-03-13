@@ -623,6 +623,19 @@ video {
   }
 }
 
+.header_btn {
+  display: flex;
+  align-items: center;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-width: 1px;
+  border-radius: 0.25rem;
+  color: #b2f5ea;
+  border-color: #4fd1c5;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;

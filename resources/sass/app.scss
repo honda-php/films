@@ -1,5 +1,8 @@
 @tailwind base;
-
 @tailwind components;
 
+.header_btn{
+   @apply flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 /*hover:text-white hover:border-white*/;
+
+}
 @tailwind utilities;
